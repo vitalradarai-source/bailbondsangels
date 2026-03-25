@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.angelsbailbonds.com/sitemaps.xml
+Sitemap: https://bailbondsangels.com/sitemap.xml
