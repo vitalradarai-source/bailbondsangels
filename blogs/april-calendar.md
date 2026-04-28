@@ -39,7 +39,7 @@
 | 2026-04-24 | Fri | bail-bond-cosigner-los-angeles | what does a bail bond cosigner do Los Angeles | Cosigner | ⬜ |
 | 2026-04-25 | Sat | bail-bond-conditions-los-angeles | bail conditions and restrictions in Los Angeles | Conditions | ⬜ |
 | 2026-04-26 | Sun | first-offense-bail-los-angeles | first offense bail bonds Los Angeles | First Offense | ⬜ |
-| 2026-04-27 | Mon | felony-vs-misdemeanor-bail-los-angeles | felony vs misdemeanor bail Los Angeles | Charge Types | ⬜ |
+| 2026-04-27 | Mon | felony-vs-misdemeanor-bail-los-angeles | felony vs misdemeanor bail Los Angeles | Charge Types | ✅ published |
 | 2026-04-28 | Tue | weapon-charges-bail-los-angeles | weapon charges bail bonds Los Angeles | Weapon Charges | ⬜ |
 | 2026-04-29 | Wed | immigration-hold-bail-los-angeles | ICE hold bail questions Los Angeles | Immigration | ⬜ |
 | 2026-04-30 | Thu | probation-violation-bail-los-angeles | probation violation bail Los Angeles | Probation | ⬜ |
